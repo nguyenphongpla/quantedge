@@ -1,0 +1,16 @@
+.full-width {
+    width: 100%;
+}
+.color-red{
+    color: red;
+}
+.color-green{
+    color: rgb(15, 231, 15);
+}
+.color-blue{
+    color: rgb(32, 167, 201);
+    font-weight: bold;
+}
+.color-grey{
+    color: rgb(138, 132, 132);
+}
